@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.main{
+    background-image: url(./Images/3194926.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    opacity: 0.8;
+}
+.main-content{
+    opacity: 0.9;
+}
+.main-content h1{
+    margin-top: 150px;
+}
+.boxes{
+    width: 370px;
+    
+}
+.nav-link{
+    padding: 5px;
+}
+.nav-link:hover{
+    background-color: #fff;
+    border-radius: 5px;
+    color:black;
+    transform: scaleX(1.1) ;
+    cursor: pointer;
+}
+#header{
+    border: none;
+    
+    font-family: 'Kanit', sans-serif;
+
+}
